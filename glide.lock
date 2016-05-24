@@ -1,0 +1,17 @@
+hash: ca84459d817d5eb5b0bc412e35ffdfaee264ff10b705e276d59948a49681ebc8
+updated: 2016-05-23T01:55:38.791307953+09:00
+imports:
+- name: github.com/hpcloud/tail
+  version: ""
+  subpackages:
+  - ratelimiter
+  - util
+  - watch
+  - winfile
+- name: github.com/mattn/go-colorable
+  version: ""
+- name: gopkg.in/fsnotify.v1
+  version: ""
+- name: gopkg.in/tomb.v1
+  version: ""
+devImports: []
