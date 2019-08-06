@@ -1,4 +1,0 @@
-package: github.com/yukithm/ntails
-import:
-- package: github.com/hpcloud/tail
-- package: github.com/mattn/go-colorable
